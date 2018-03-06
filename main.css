@@ -1,0 +1,304 @@
+body{
+    background-color: lightblue;
+    max-width: 100%;
+}
+div.container {
+    background-color: lightblue;
+    
+}
+/* Nav Logo and Title */
+
+.navbar-brand{
+    font-family: 'Old Standard TT', serif;
+}
+
+/* NavBar menu */
+
+ul.navbar-nav{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+ul.navbar-nav li{
+    margin: 0 5px 0 10px;
+}
+
+div nav i.fa-heart{
+    margin: 0 8px 0 0;
+}
+
+/* Container2 */
+
+div.container2{
+    background-color: lightblue;
+}
+.img-fluid{
+    padding-left: 0 0 10px 0;
+    
+}
+h1{
+    font-family: 'Old Standard TT' , sans-serif;
+    font-size: 30px;
+    color: white;
+    padding: 50px 0 0 0;
+}
+
+      /* Circles */
+
+#circle1 {
+    border: 2px solid white;
+    background: white;
+    padding: 10px;
+    border-radius: 100px;
+    height:10px;
+    width:10px;
+    margin-left: 20px;
+    margin-right: 4px;
+}
+#circle2 {
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 100px;
+    height:10px;
+    width:10px;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+#circle3 {
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 100px;
+    height:10px;
+    width:10px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+/* Cards */
+.container3{
+    background-color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+   
+}
+.container3 p{
+    font-size: 12px;
+}
+h2{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+
+/* Green section */
+
+.container4{
+    background-color:rgb(128, 204, 128);
+
+}
+.green h1{
+    text-align: center;
+    font-size: 28px;
+}
+.container4 .green h1 p{
+    margin: 100px;
+}
+
+/* navbar butttons */
+.btn-light{
+    color: rgb(128, 204, 128);
+}
+.nav-link{
+    color: white;
+}
+
+
+/* images */
+
+.row{
+    margin-top:50px;
+    margin-left: 80px;
+    margin-right:50px;
+}
+
+.img1{
+    margin: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.img2{
+    padding: 0;
+    margin: 30px;
+}
+
+/* button */
+.button .btn-light{
+    color:rgb(128, 204, 128);
+}
+
+
+
+/* grey-white section */
+
+
+.container5{
+    background-color: rgb(243, 243, 243);
+    padding-top:20px;
+    padding-bottom: 40px;
+}
+
+
+.media-body p{
+    color: rgb(75, 74, 74);
+    font-family: 'News Cycle', sans-serif;
+    font-weight: bold;
+}
+
+.media{
+    margin-top: 70px;
+    margin-left:190px;
+    margin-bottom: 150px;
+    margin-right: 150px;
+}
+
+.media-body-2 p{
+    color: rgb(75, 74, 74);
+    font-family: 'News Cycle', sans-serif;
+    font-weight: bold;
+}
+
+hr{
+    border:1px solid rgb(161, 158, 158);
+    width: 75%;
+
+}
+
+button.button-blue{
+    margin: 10px;
+}
+
+
+/* pink section */
+
+.container6{
+    background-color: pink;
+}
+
+
+.pink h1{
+    text-align: center;
+    font-size: 28px;
+}
+
+.card.card-cascade{
+   margin:212px;
+   height: 360px;
+}
+
+.fa.fa-twitter{
+    color: lightskyblue;
+    margin: 5px;
+}
+
+.fa.fa-facebook{
+    color: rgba(13, 31, 110, 0.904);
+    margin: 5px;
+}
+
+.fa.fa-pinterest{
+    color: rgb(165, 4, 4);
+    margin: 5px;
+}
+
+h5{
+    font-weight: bold;
+}
+
+
+/* Container 7 */
+
+.lightblue-2 h1{
+    text-align: center;
+    font-size: 28px;
+}
+
+.card.card-cascade2{
+    margin-top:50px;
+    margin-bottom:100px;
+    margin-left:150px;
+    margin-right:100px;
+    height: 380px;
+ }
+
+ /* button */
+button#singlebutton2{
+    color:lightblue;
+}
+
+
+/* container 8 */
+.container8{
+    background-color: rgb(46, 45, 45);
+    padding-top:20px;
+    padding-bottom: 40px;
+}
+.card-body2 h4{
+    text-align: center;
+    margin-top: 15px;
+}
+.card-body2 h5{
+    font-weight: normal;
+    text-align: center;
+}
+
+.card-body2 p{
+    text-align: center;
+}
+
+.black{
+    text-align: center;
+}
+
+/* form  */
+.form-group{
+    margin: 20px;
+}
+
+
+ /* button */
+ button#singlebutton3{
+    color:rgb(75, 74, 74);
+  
+}
+
+/* border line */
+hr.two{
+    border:1px solid rgb(0, 0, 0);
+    width: 75%;
+}
+
+/* Social Icons */
+
+.social.icons{
+    color: rgb(87, 85, 85);
+    float: left;
+    margin-left: 210px;
+    font-size: 20px;    
+}
+
+/* copyright disclaimer */
+.disclaimer{
+    float: right;
+    margin-right: 210px;
+    color: rgb(197, 194, 194);
+    font-size: 12px;
+}
+
+.copy{
+    color: white;
+    border-right: 1px solid rgb(160, 160, 160);
+    font-size: 12px;
+    white-space: nowrap ;
+}
+
+
