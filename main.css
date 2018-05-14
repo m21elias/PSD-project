@@ -43,37 +43,6 @@ h1{
     padding: 50px 0 0 0;
 }
 
-      /* Circles */
-
-#circle1 {
-    border: 2px solid white;
-    background: white;
-    padding: 10px;
-    border-radius: 100px;
-    height:10px;
-    width:10px;
-    margin-left: 20px;
-    margin-right: 4px;
-}
-#circle2 {
-    border: 2px solid white;
-    padding: 10px;
-    border-radius: 100px;
-    height:10px;
-    width:10px;
-    margin-right: 4px;
-    margin-left: 4px;
-}
-#circle3 {
-    border: 2px solid white;
-    padding: 10px;
-    border-radius: 100px;
-    height:10px;
-    width:10px;
-    margin-left: 4px;
-    margin-right: 4px;
-}
-
 /* Cards */
 .container3{
     background-color: white;
@@ -197,17 +166,17 @@ button.button-blue{
 
 .fa.fa-twitter{
     color: lightskyblue;
-    margin: 5px;
+    margin-top: 5px;
 }
 
 .fa.fa-facebook{
     color: rgba(13, 31, 110, 0.904);
-    margin: 5px;
+    margin-top: 5px;
 }
 
 .fa.fa-pinterest{
     color: rgb(165, 4, 4);
-    margin: 5px;
+    margin-top: 5px;
 }
 
 h5{
